@@ -1,6 +1,6 @@
-# .SdkuVldtrCpp
+# Sudoku Validator
 
-- A program that traverses through a sudoku txt file and identifies if it's a proper solution or not
+- A program that traverses and analyzes a text-based Sudoku puzzle file to validate whether it represents a correct solution, ensuring all rows, columns, and subgrids satisfy standard Sudoku constraints.
 
 # AUTHOR INFO
 
