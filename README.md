@@ -12,9 +12,9 @@
 
 ## Usage
 
-- Compile the program using the appropriate compiler for the language used.
-- Run the executable and provide the path to a Sudoku .txt file as input (either via command-line argument or standard input, depending on implementation).
-- The program outputs whether the Sudoku solution is valid or invalid based on constraint checks.
+1. Compile the program using the appropriate compiler for the language used.
+2. Run the executable and provide the path to a Sudoku .txt file as input (either via command-line argument or standard input, depending on implementation).
+3. The program outputs whether the Sudoku solution is valid or invalid based on constraint checks.
 
 ## Input Format
 
