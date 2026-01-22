@@ -2,7 +2,7 @@
 
 - A program that traverses and analyzes a text-based Sudoku puzzle file to validate whether it represents a correct solution, ensuring all rows, columns, and subgrids satisfy standard Sudoku constraints.
 
-# AUTHOR INFO
+## Author Info
 
 - Full Name: Ethan E. Lopez
 - Student ID: 2425516
